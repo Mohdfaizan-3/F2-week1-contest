@@ -56,8 +56,8 @@ function concatenateArray() {
 
 }
 
-PrintStudentswithMap();
-PrintStudentsbyForEach();
-addData();
-removeFailedStudent();
-concatenateArray();
+// PrintStudentswithMap();
+// PrintStudentsbyForEach();
+// addData();
+// removeFailedStudent();
+// concatenateArray();
