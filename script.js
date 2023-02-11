@@ -8,10 +8,17 @@ let arr = [
 
 function PrintStudentswithMap() {
   //Write your code here , just console.log
+//  arr.map((value)=>{
+//     if(value.marks>50) console.log(value.name);
+//   });
+  
 }
 
 function PrintStudentsbyForEach() {
   //Write your code here , just console.log
+  //  arr.forEach((value)=>{
+  //     if(value.marks>50) console.log(value.name);
+  //   });
 }
 
 function addData() {
@@ -25,3 +32,6 @@ function removeFailedStudent() {
 function concatenateArray() {
   //Write your code here, just console.log
 }
+
+PrintStudentswithMap();
+PrintStudentsbyForEach();
